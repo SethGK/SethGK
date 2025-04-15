@@ -1,4 +1,4 @@
-I'm Seth, a web developer with a B.S. in Chemistry and a strong foundation in managing laboratory software systems like Unity Real Time and Data Innovations Instrument Manager. 
+I'm Seth, a developer with a B.S. in Chemistry and a strong foundation in managing laboratory software systems like Unity Real Time and Data Innovations Instrument Manager. 
 
 - 🔭 Currently building: **RefHub**, a clinical reference range management platform (Go, PostgreSQL, React)
 - 📚 Reading: *Crafting Interpreters* to deepen my understanding of programming languages and runtime systems
