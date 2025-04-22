@@ -1,6 +1,7 @@
-I'm Seth, a clinical systems specialist transitioning into software engineering. I hold a B.S. in Chemistry and have experience managing laboratory software systems, including Unity Real Time and Data Innovations Instrument Manager.
+## About Me
 
--  Currently building: **RefHub**, a clinical reference range management platform (Go, PostgreSQL, React)
--  Reading: *Crafting Interpreters* to deepen my understanding of programming languages and runtime systems
--  Experienced with: Go, SQL, REST APIs, authentication, and full-stack development
+Clinical systems specialist transitioning into software engineering, with a B.S. in Chemistry and professional experience managing laboratory software systems such as Unity Real Time and Data Innovations Instrument Manager.
 
+- **Currently building**: *Reference Range Aggregator* — a clinical data platform for managing and aggregating reference ranges across departments (Go, PostgreSQL, React)  
+- **Currently reading**: *Crafting Interpreters* to deepen my understanding of programming languages, interpreters, and runtime systems  
+- **Technical focus**: Go, SQL, REST APIs, authentication, full-stack web development, and building tools for scientific and clinical environments
